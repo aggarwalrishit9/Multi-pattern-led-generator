@@ -22,7 +22,13 @@ The hardware was assembled on a breadboard using the following components:
 
 ### Hardware Photos
 
-The `hardware/` folder contains photographs of the physical circuit from different angles.
+### Hardware Gallery
+
+![Multi-Pattern LED Generator - Hardware View 1](hardware/photo_1.jpeg)
+
+![Multi-Pattern LED Generator - Hardware View 2](hardware/photo_2.jpeg)
+
+![Multi-Pattern LED Generator - Hardware View 3](hardware/photo_3.jpeg)
 
 ## Python Simulation
 
