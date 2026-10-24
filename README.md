@@ -31,8 +31,7 @@ The Python simulation uses Tkinter to display five LEDs and two switches. The sw
 **Language:** Python  
 **GUI framework:** Tkinter
 
-Source code: [`python-simulation/led_pattern_generator.py`](python-simulation/led_pattern_generator.py)
-
+Source code: [`led_pattern_generator.py`](python-simulation/%20led_pattern_generator.py)
 ## Key Concepts
 
 - Clock pulse generation using a 555 timer
