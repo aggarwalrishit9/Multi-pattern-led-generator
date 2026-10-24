@@ -24,11 +24,11 @@ The hardware was assembled on a breadboard using the following components:
 
 ### Hardware Gallery
 
-![Multi-Pattern LED Generator - Hardware View 1](hardware/photo_1.jpeg)
+![Multi-Pattern LED Generator - Hardware View 1](hardware/photo1.jpeg)
 
-![Multi-Pattern LED Generator - Hardware View 2](hardware/photo_2.jpeg)
+![Multi-Pattern LED Generator - Hardware View 2](hardware/photo2.jpeg)
 
-![Multi-Pattern LED Generator - Hardware View 3](hardware/photo_3.jpeg)
+![Multi-Pattern LED Generator - Hardware View 3](hardware/photo3.jpeg)
 
 ## Python Simulation
 
